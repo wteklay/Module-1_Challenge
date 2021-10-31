@@ -20,11 +20,9 @@ Two analyses are performed as described above. **Outcomes based on Launch Date**
 Some difficulties encountered include uploading images in the README.md template that works properly and interpretating the analysis without much information on how it was collected. 
 
 ## Results
-Based on the analysis of **Outcomes Based on Goals**, the month of May appears to feature the most successful campiagns as well as failures , while the month of December features the least count of both, successful and failed campiagns. Louise should consider launching her campiagn between the months of March-May as the trend of succesful campiagns increases. 
+Based on the analysis of **Outcomes Based on Launch Date**, the month of May appears to feature the most successful campiagns as well as failures , while the month of December features the least count of both, successful and failed campiagns. Louise should consider launching her campiagn between the months of March-May as the trend of succesful campiagns increases within those months. 
 
-- What are two conclusions you can draw about the Outcomes based on Launch Date?
-
-- What can you conclude about the Outcomes based on Goals?
+Based on the analysis of **Outcomes Based on Goals**, campiagns that aimed to raise between 35k-45k are 67% successful, while campiagns that aimed to raise less than 1k are the most successful (76%), and campiagns that wanted to raise between 1K-5K re 73% successful. On the same token, campiagns that aimed to raise more than 40K
 
 - What are some limitations of this dataset?
 
