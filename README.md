@@ -22,8 +22,13 @@ Some difficulties encountered include uploading images in the README.md template
 ## Results
 Based on the analysis of **Outcomes Based on Launch Date**, the month of May appears to feature the most successful campiagns as well as failures , while the month of December features the least count of both, successful and failed campiagns. Louise should consider launching her campiagn between the months of March-May as the trend of succesful campiagns increases within those months. 
 
-Based on the analysis of **Outcomes Based on Goals**, campiagns that aimed to raise between 35k-45k are 67% successful, while campiagns that aimed to raise less than 1k are the most successful (76%), and campiagns that wanted to raise between 1K-5K re 73% successful. On the same token, campiagns that aimed to raise more than 40K
+Based on the analysis of **Outcomes Based on Goals**, campiagns that aimed to raise between 35K-45K are 67% successful, while campiagns that aimed to raise less than 1K are the most successful (76%), and campiagns that wanted to raise between 1K-5K re 73% successful. On the same token, campiagns that aimed to raise more than 45K are the least successful. 
 
-- What are some limitations of this dataset?
+## Limitations
+Data does not measure or report the number of staffers hired nor the process behind securing pledges to fund campagins. This will help Louise understand the external factors that lie outside the reported measures (time, country...). 
 
-- What are some other possible tables and/or graphs that we could create?
+## Other Posibilities 
+Possible graphs that can be helpful to Louise are 
+```
+Number of Backers
+
