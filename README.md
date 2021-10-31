@@ -11,11 +11,10 @@ The project aims to help Louise understand how different campaigns, specifically
 Two analyses are performed as described above. **Outcomes based on Launch Date** is constructed by creating a pivot table from the raw dataset *Kickstarter*  and by graphing a line chart to see the correlation between theatre outcomes and launch dates. Date defined by years is plotted on the x-axis and the count of total successful, failed and canceled outcomes are plotted on the y-axis. Similarity, **Outcomes based on funding goals** is obtained by pooling raw data and computing the percentage of sucessful, failed and canceled projects on the Y-axis and range of funding goals on the X-axis by a factor of $5,000. Results are attachede below.   
 
 ### Analysis of Outcomes Based on Launch Date
-![Outcomes based on Launch Date](C:\Users\woyni\OneDrive\Documents\Data Analytics\Module1_Solutions\Theater_Outcomes_vs_Launch.png). 
-![]https://github.com/wteklay/Module-1_Challenge/blob/main/Module1_Solution.zip
+![Theater_Outcomes_vs_Launch](https://user-images.githubusercontent.com/85447751/139602754-f23295b6-d3d2-4feb-8f8b-5123df9ff267.png)
 
 ### Analysis of Outcomes Based on Goals
-![Outcomes based on Launch Date](C:\Users\woyni\OneDrive\Documents\Data Analytics\Module1_Solutions\Outcomes_vs_Goals). 
+ 
 
 ### Challenges and Difficulties Encountered
 
