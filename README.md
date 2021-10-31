@@ -12,6 +12,7 @@ Two analyses are performed as described above. **Outcomes based on Launch Date**
 
 ### Analysis of Outcomes Based on Launch Date
 ![Outcomes based on Launch Date](C:\Users\woyni\OneDrive\Documents\Data Analytics\Module1_Solutions\Theater_Outcomes_vs_Launch.png). 
+![]https://github.com/wteklay/Module-1_Challenge/blob/main/Module1_Solution.zip
 
 ### Analysis of Outcomes Based on Goals
 ![Outcomes based on Launch Date](C:\Users\woyni\OneDrive\Documents\Data Analytics\Module1_Solutions\Outcomes_vs_Goals). 
