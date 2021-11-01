@@ -22,7 +22,7 @@ Some difficulties encountered include uploading images in the README.md template
 ## Results
 Based on the analysis of **Outcomes Based on Launch Date**, the month of May appears to feature the most successful campaigns as well as failures, while the month of December features the least count of both, successful and failed campaigns. Louise should consider launching her campaign between the months of March-May as the trend of successful campaigns increases within those months. 
 
-Based on the analysis of **Outcomes Based on Goals**, campaigns that aimed to raise between 35K-45K are 67% successful, while campaigns that aimed to raise less than 1K are the most successful (76%), and campaigns that wanted to raise between 1K-5K re 73% successful. On the same token, campaigns that aimed to raise more than 45K are the least successful. 
+Based on the analysis of **Outcomes Based on Goals**, campaigns that aimed to raise between 35K-45K are 67% successful, while campaigns that aimed to raise less than 1K are the most successful (76%), and campaigns that wanted to raise between 1K-5K are 73% successful. On the same token, campaigns that aimed to raise more than 45K are the least successful. 
 
 ## Limitations
 Data does not measure or report the number of staffers hired nor the process behind securing pledges to fund campaigns. This will help Louise understand the external factors that lie outside the reported measures (time, country...). 
