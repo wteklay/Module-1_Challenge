@@ -30,5 +30,7 @@ Data does not measure or report the number of staffers hired nor the process beh
 ## Other Posibilities 
 Possible graphs that can be helpful to Louise are 
 ```
-Number of Backers
+Number of Backers and outcomes 
+Number of Backers and pledges funds/goals
+1
 
