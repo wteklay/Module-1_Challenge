@@ -2,7 +2,7 @@
 Assignment using Kickstarter data to uncover trends 
 
 ## Overview of the Project 
-Louise, an up-and-coming playwright, seeks to fund her new play **Fever** and requires some statistical data to set a reasonable budget. It will be helpful to Louise to determine specific factors that make similar campaigns successful. The goal is to help her campaign mirror other successful projects of similar nature. 
+Louise, an up-and-coming playwright, seeks to fund her new play **Fever** and requires some statistical data to set a reasonable budget. It will be helpful to Louise to determine specific factors that make similar campaigns successful. The goal is to help her campaign mirror other successful projects similar in nature. 
 
 ### Purpose
 The project aims to help Louise understand how different campaigns, specifically theatre, perform in relation to its launch date and funding goals. The report will consist of two visuals titled **Outcomes based on Launch Date** and **Outcomes Based on Goals chart**. Data obtained from these two analyses will help Louise understand how outcomes (success, failure, cancellation) differ by launch dates and funding goals. 
